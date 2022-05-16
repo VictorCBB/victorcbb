@@ -1,3 +1,6 @@
-### Hi there 👋 I'm a developer passionate about solving programming challenges. I'm always looking to learn more!
+### Hi there 👋 
+#### I'm a developer passionate about solving programming challenges. I'm always looking to learn more!
 
 
+### Visit my LinkedIn
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
