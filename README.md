@@ -5,6 +5,7 @@
 - `HTML`
 - `CSS`
 - `JavaScript`
+- `React`
 - `Nodejs`
 - `SQL`
 
