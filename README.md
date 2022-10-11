@@ -6,7 +6,8 @@
 - `CSS`
 - `JavaScript`
 - `TypeScript`
-- `React`
+- `Reactjs`
+- `Nextjs`
 - `Nodejs`
 - `SQL`
 
