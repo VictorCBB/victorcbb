@@ -1,14 +1,17 @@
 ### Hi there 👋 
-#### I'm a developer passionate about solving programming challenges. I'm always looking to learn more!
+#### I've been a fullstack web developer since 2022. In programming I found union with something I love to do and the opportunity to solve challenges to help people. I'm always looking to learn more!
 
 ### Current Stack :technologist:
 - `HTML`
 - `CSS`
+- `Tailwondcss`
+- `Styled-componets`
 - `JavaScript`
 - `TypeScript`
 - `Reactjs`
 - `Nextjs`
 - `Nodejs`
+- `Fastify`
 - `SQL`
 - `PostgreSQL`
 - `MySQL`
