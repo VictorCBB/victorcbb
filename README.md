@@ -5,14 +5,13 @@
 - `HTML`
 - `CSS`
 - `Tailwondcss`
-- `Styled-componets`
+- `Styled-components`
 - `JavaScript`
 - `TypeScript`
 - `Reactjs`
 - `Nextjs`
 - `Nodejs`
 - `Fastify`
-- `SQL`
 - `PostgreSQL`
 - `MySQL`
 - `Docker`
